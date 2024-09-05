@@ -1,18 +1,18 @@
 # Hi! I'm Rangel 👋
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-
-  <img 
-    height=400 
-     width="52%"
-      align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=rangel-g&include_all_commits=true&hide=prs&rank_icon=github&show_icons=true&theme=react#gh-dark-mode-only&card_width=320" />
-</a><a href="https://github.com/anuraghazra/convoychat">  <img 
-    height=200 
-     width="47%"
-     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-rangel&layout=compact&theme=react#gh-dark-mode-only&theme=react#gh-dark-mode-only&theme=default#gh-light-mode-only" /></a>
+ <div>
+   <img 
+      width="52%" 
+      alt="Petri Github stats"
+      src="https://github-readme-stats.vercel.app/api?username=rangel-g&include_all_commits=true&hide=prs&rank_icon=github&show_icons=true&theme=react&hide_border=true&border_radius=12&bg_color=000000"
+   />
+   <img 
+      width="47%"
+      alt="Petri most used languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JV-Rangel&layout=compact&theme=react&hide_border=true&border_radius=12&bg_color=000000"
+   />
+</div>
 
 <br/>
 
