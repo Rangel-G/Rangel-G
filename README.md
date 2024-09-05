@@ -4,7 +4,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
 
   <img 
-    height=200 
+    height=400 
      width="52%"
       align="center" 
     src="https://github-readme-stats.vercel.app/api?username=rangel-g&include_all_commits=true&hide=prs&rank_icon=github&show_icons=true&theme=react#gh-dark-mode-only&card_width=320" />
