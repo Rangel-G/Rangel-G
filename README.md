@@ -5,7 +5,7 @@
    <img 
       width="52%" 
       alt="Rangel Github stats"
-      src="https://github-readme-stats.vercel.app/api?username=jv-rangel&include_all_commits=true&hide=prs&rank_icon=github&show_icons=true&theme=react&hide_border=true&border_radius=12&bg_color=000000"
+      src="https://github-readme-stats.vercel.app/api?username=rangel-g&include_all_commits=true&hide=prs&rank_icon=github&show_icons=true&theme=react&hide_border=true&border_radius=12&bg_color=000000"
    />
    <img 
       width="47%"
